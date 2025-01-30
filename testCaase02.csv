@@ -1,0 +1,19 @@
+course_code,name,type,day,venue,credit,start_time,end_time,instructor,remarks
+CS201 A LEC,Advanced Programming,LEC,0,TA201,4,14:00,15:30,Prof Zhang,Project-based
+CS201 A TUT,Advanced Programming,TUT,1,TA201,4,15:45,17:15,TA Wang,Lab work
+CS202 A LEC,Data Structures,LEC,2,TA202,3,09:00,10:30,Prof Li,Recitation
+CS202 A TUT,Data Structures,TUT,3,TA202,3,10:45,12:15,TA Liu,Lab work
+CS203 A LEC,Algorithms,LEC,1,TA203,4,13:00,14:30,Prof Chen,Proofs
+CS203 A TUT,Algorithms,TUT,4,TA203,4,14:45,16:15,TA Zhao,Lab work
+CS204 A LEC,Database Systems,LEC,2,TA204,3,08:00,09:30,Prof Sun,Case Studies
+CS204 A TUT,Database Systems,TUT,3,TA204,3,09:45,11:15,TA Zhou,Lab work
+CS205 A LEC,Operating Systems,LEC,0,TA205,4,16:00,17:30,Prof Wang,Guest Lecture
+CS205 A TUT,Operating Systems,TUT,1,TA205,4,17:45,19:15,TA Song,Lab work
+CS206 A LEC,Computer Networks,LEC,2,TA206,3,10:00,11:30,Prof Hu,Networking
+CS206 A TUT,Computer Networks,TUT,3,TA206,3,11:45,13:15,TA Liu,Lab work
+CS207 A LEC,Software Engineering,LEC,1,TA207,3,14:00,15:30,Prof Gao,Project
+CS207 A TUT,Software Engineering,TUT,4,TA207,3,15:45,17:15,TA Zhang,Lab work
+CS208 A LEC,Artificial Intelligence,LEC,0,TA208,4,08:00,09:30,Prof Guo,AI Applications
+CS208 A TUT,Artificial Intelligence,TUT,1,TA208,4,09:45,11:15,TA Li,Lab work
+CS209 A LEC,Cyber Security,LEC,2,TA209,3,13:00,14:30,Prof Xu,Security Protocols
+CS209 A TUT,Cyber Security,TUT,3,TA209,3,14:45,16:15,TA Wang,Lab work

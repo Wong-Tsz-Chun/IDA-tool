@@ -1,0 +1,10 @@
+course_code,name,type,day,venue,credit,start_time,end_time,instructor,remarks
+CS101 A LEC,Intro to Computer Science,LEC,0,TA101,3,10:00,11:30,Prof Cheung,None
+CS101 A LEC,Intro to Computer Science,LEC,2,TA101,3,10:00,11:30,Prof Cheung,None
+CS101 B LEC,Intro to Computer Science,LEC,1,TA102,3,10:00,11:30,Prof Lee,None
+CS101 B LEC,Intro to Computer Science,LEC,3,TA102,3,10:00,11:30,Prof Lee,None
+CS101 C LEC,Intro to Computer Science,LEC,1,TA103,3,10:00,11:30,Prof Tang,None
+CS101 C LEC,Intro to Computer Science,LEC,3,TA103,3,10:00,11:30,Prof Tang,None
+CS101 A TUT,Intro to Computer Science,TUT,4,TA101,3,10:00,13:30,Staff,None
+CS101 B TUT,Intro to Computer Science,TUT,4,TA101,3,10:00,13:30,Staff,None
+CS101 C TUT,Intro to Computer Science,TUT,4,TA101,3,10:00,13:30,Staff,None

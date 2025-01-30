@@ -1,0 +1,14 @@
+course_code,name,type,day,venue,credit,start_time,end_time,instructor,remarks
+CS101 A LEC,Programming I,LEC,0,TA101,3,09:00,10:30,Prof Anderson,Basic Programming
+CS101 A LEC,Programming I,LEC,2,TA101,3,09:00,10:30,Prof Anderson,Basic Programming
+CS101 A TUT,Programming I,TUT,4,LAB1,1,09:00,10:30,Staff A,Tutorial Session
+CS101 B LEC,Programming I,LEC,0,TA102,3,09:00,10:30,Prof Baker,Basic Programming
+CS101 B LEC,Programming I,LEC,2,TA102,3,09:00,10:30,Prof Baker,Basic Programming
+CS101 B TUT,Programming I,TUT,4,LAB2,1,10:30,12:00,Staff B,Tutorial Session
+CS102 A LEC,Data Structures,LEC,1,TB201,3,11:00,12:30,Prof Chen,Data Structures
+CS102 A TUT,Data Structures,TUT,3,LAB3,1,12:00,13:30,Staff C,Lab Session
+CS102 B LEC,Data Structures,LEC,1,TB202,3,12:00,13:30,Prof Davis,Data Structures
+CS103 A LEC,Algorithms,LEC,2,TC301,3,14:00,15:30,Prof Evans,Algorithms
+CS103 A TUT,Algorithms,TUT,2,LAB4,1,15:30,17:00,Staff D,Tutorial Session
+CS104 A LEC,Database Systems,LEC,3,TD401,3,09:00,12:00,Prof Fisher,Database Design
+CS104 A TUT,Database Systems,TUT,3,LAB5,1,10:00,11:30,Staff E,Lab Session
